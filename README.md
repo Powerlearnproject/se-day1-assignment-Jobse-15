@@ -105,3 +105,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 iv) Improving User Experience:
 - Consistency: Well-crafted prompts produce more predictable and consistent results, which improves the AI's dependability in a range of applications.
 - User Satisfaction: When users are satisfied and have more faith in the system, prompts that work well help guarantee that the AI responds in a way that meets their expectations.
+- 
